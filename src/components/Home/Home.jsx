@@ -8,7 +8,7 @@ const Home = () => {
   console.log(authInfo)
   return (
     <div>
-      <h1>This is home pages</h1>
+      <h1 className='text-4xl text-sky-500 font-bold text-center mt-20'>This is home pages</h1>
     </div>
   );
 };
